@@ -1,0 +1,12 @@
+{
+  "name": "hp3",
+  "version": "1.3.0",
+  "description": "helpers for js",
+  "main": "index.js",
+  "scripts": {},
+  "author": "hgjfkdls",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ]
+}
