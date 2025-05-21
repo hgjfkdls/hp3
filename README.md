@@ -3,7 +3,7 @@
 > Una colección de funciones utilitarias modernas y livianas para JavaScript. Hecha para simplificar tareas comunes de validación, transformación y manipulación de datos.
 
 [![npm](https://img.shields.io/npm/v/hp3.svg)](https://www.npmjs.com/package/hp3)
-[![License](https://img.shields.io/npm/l/hp3.svg)](https://github.com/hgjfkdls/hp3/blob/main/LICENCE)
+[![License](https://img.shields.io/npm/l/hp3.svg)](https://github.com/hgjfkdls/hp3/blob/main/LICENSE)
 
 ## 🚀 Instalación
 
@@ -83,4 +83,4 @@ console.log(transform("", v => v.toUpperCase(), "VACÍO"));     // "VACÍO"
 > 
 > Copyright (c) 2025 hgjfkdls
 
-[>> LICENSE](https://github.com/hgjfkdls/hp3/blob/main/LICENCE)
+[>> LICENSE](https://github.com/hgjfkdls/hp3/blob/main/LICENSE)
