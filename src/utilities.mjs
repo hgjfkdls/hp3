@@ -60,7 +60,7 @@ export function first(value) {
  */
 export function last(value) {
     if (is_iterable(value) && "slice" in value && is_function(value.slice)) {
-        return value.slice(-1);
+        return value[value.length - 1];
     }
     return undefined;
 }
