@@ -1,5 +1,5 @@
 import {is_array, is_blank, is_null, is_object, is_undefined} from "./type.mjs";
-import {value} from "./value.mjs";
+import {value} from "./utilities.mjs";
 
 const DEFAULT = Symbol("default");
 

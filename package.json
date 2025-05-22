@@ -1,11 +1,15 @@
 {
   "name": "hp3",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "helpers for js",
   "main": "index.js",
   "scripts": {},
   "author": "hgjfkdls",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hgjfkdls/hp3.git"
+  },
   "files": [
     "index.js",
     "src/"
@@ -21,7 +25,6 @@
     "toolkit",
     "functional",
     "library",
-    "is",
     "hp3"
   ]
 }
